@@ -1,2 +1,2 @@
 # Basic-Python-codes
-First git upload on from local repo
+First git push from local repo
